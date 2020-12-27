@@ -24,7 +24,7 @@ namespace RoutineManagerAudio
 			
 			Console.Write("Enter seconds to display each picture: ");
 			
-			int secs = Convert.toInt32(Console.ReadLine());
+			int secs = Convert.ToInt32(Console.ReadLine());
 			
 			secs *= 1000;
 			
